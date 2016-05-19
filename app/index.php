@@ -56,7 +56,7 @@
         <h1>Hallo <?php echo 'Puzzle'?></h1>
         <p class="lead">APPUiO Example Dockerfile PHP</p>
       </div>
-
+    <?php phpinfo() ?>
     </div><!-- /.container -->
 
 
